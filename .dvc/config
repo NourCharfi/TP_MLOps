@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "localremote"']
+    url = ../dvc_remote
+['remote "myremote"']
+    url = https://github.com/<NourCharfi>/<TP_MLOps>.git

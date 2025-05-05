@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DSIR12/MachineLearning/TPS/TP%209%20MLops-20250428/TP_MLOps/mlruns/436709296876872828/c05caf9eb2954715bc45361f05145ff5/artifacts
+end_time: 1745833036793
+entry_point_name: ''
+experiment_id: '436709296876872828'
+lifecycle_stage: active
+run_id: c05caf9eb2954715bc45361f05145ff5
+run_name: unique-jay-952
+run_uuid: c05caf9eb2954715bc45361f05145ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745833031288
+status: 3
+tags: []
+user_id: DELL

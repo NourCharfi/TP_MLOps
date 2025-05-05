@@ -1,0 +1,6 @@
+artifact_location: file:///C:/DSIR12/MachineLearning/TPS/TP%209%20MLops-20250428/TP_MLOps/mlruns/436709296876872828
+creation_time: 1745833030853
+experiment_id: '436709296876872828'
+last_update_time: 1745833030853
+lifecycle_stage: active
+name: iris_classification
